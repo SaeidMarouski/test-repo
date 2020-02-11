@@ -1,2 +1,0 @@
-<html><body>First line in second file
-</html></body>
